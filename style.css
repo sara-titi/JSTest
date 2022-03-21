@@ -1,0 +1,23 @@
+button{
+    color:white;
+    border-radius: 25px;
+    background-color: blue;
+}
+.userName{
+    border: 2px solid black;
+    padding: 3px;
+   
+}
+
+
+  .card{
+    border: 1px solid;
+    padding: 22px;
+    width: 25%;
+    float: center;
+    border-radius: 10px;
+  }
+  .btn{
+     float: right;
+   
+  }
